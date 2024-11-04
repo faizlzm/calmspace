@@ -68,4 +68,9 @@ dependencies {
     implementation("com.google.firebase:firebase-auth")
     implementation("com.google.firebase:firebase-database")
     implementation("com.google.firebase:firebase-storage")
+
+    implementation(libs.androidx.core.splashscreen)
+
+    implementation("androidx.compose.ui:ui-text:1.7.5")
+    implementation("androidx.compose.ui:ui-text-google-fonts:1.7.5")
 }
