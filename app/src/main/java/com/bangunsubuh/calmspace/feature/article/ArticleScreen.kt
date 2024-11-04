@@ -107,7 +107,6 @@ fun ArticleScreen(
     }
 }
 
-@OptIn(ExperimentalMaterial3Api::class)
 @Composable
 fun ArticleCard(
     article: ArticleModel,
