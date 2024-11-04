@@ -12,7 +12,7 @@
         android:label="@string/app_name"
         android:roundIcon="@drawable/calmspace_logo"
         android:supportsRtl="true"
-        android:theme="@style/Theme.Calmspace"
+        android:theme="@style/Theme.Calmspace.Splash"
         tools:targetApi="31">
         <activity
             android:name=".MainActivity"
